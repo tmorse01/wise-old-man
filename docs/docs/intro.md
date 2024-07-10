@@ -85,7 +85,7 @@ Feel free to reach out to us on Discord if you are unsure about the best approac
 
 **API Keys** help us keep track of who is actually using our API, and what resources they need the most, and can be really helpful for us to know how to contact our API consumers.
 
-**If you want an API key, or just want to be notified of API changes, just send us a message on [our discord](https://wiseoldman.net/discord) and we'll help you.**
+**If you would like an API key, submit a request in the [#Support](https://discord.com/channels/679454777708380161/1130866514698977430) channel of discord, and we'll help you. If you'd just like to be notified of API changes, please join [our discord](https://wiseoldman.net/discord).**
 
 Alternatively, you can add a user agent header to your requests, which would help us identify who you are, however, this does not increase API rate limits.
 
